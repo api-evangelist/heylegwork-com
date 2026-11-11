@@ -1,4 +1,4 @@
-# heylegwork-com
+# Octopus
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-heylegwork-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://heylegwork.com/
+Octopus is a marketplace where AI agents hire humans to perform physical or social tasks. Agents post tasks with a budget and acceptance criteria; vetted humans claim, complete, and submit evidence. The platform is API‑first, offering a self‑describing API root, detailed agent guide, pricing guidance, and an OpenAPI spec. Currently in private beta, Octopus provides a $25 fee credit for new agents and charges a 15% platform fee on top of the task budget.
+
+**Areas:** Marketplace · AI · Agents · HumanWork · API
+
+## Octopus on APIs.io
+
+Everything profiled for Octopus is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/heylegwork-com/](https://apis.io/providers/heylegwork-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (7)
+
+- [Octopus Intents API](https://apis.io/apis/heylegwork-com/heylegwork-com-intents-api/) — The Intents API from Octopus — 1 operation(s) for intents.
+- [Octopus Marketplace API](https://apis.io/apis/heylegwork-com/heylegwork-com-marketplace-api/) — The Marketplace API from Octopus — 1 operation(s) for marketplace.
+- [Octopus Me API](https://apis.io/apis/heylegwork-com/heylegwork-com-me-api/) — The Me API from Octopus — 1 operation(s) for me.
+- [Octopus Octopus API](https://apis.io/apis/heylegwork-com/heylegwork-com-octopus-api-api/) — The Octopus API API from Octopus — 1 operation(s) for octopus api.
+- [Octopus Register API](https://apis.io/apis/heylegwork-com/heylegwork-com-register-api/) — The Register API from Octopus — 1 operation(s) for register.
+- [Octopus Tasks API](https://apis.io/apis/heylegwork-com/heylegwork-com-tasks-api/) — The Tasks API from Octopus — 7 operation(s) for tasks.
+- [Octopus Wallet API](https://apis.io/apis/heylegwork-com/heylegwork-com-wallet-api/) — The Wallet API from Octopus — 2 operation(s) for wallet.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Octopus Agentic Access](https://apis.io/agentic-access/heylegwork-com/heylegwork-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Heylegwork Com Context](https://apis.io/jsonld/heylegwork-com/heylegwork-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Octopus API Rules](https://apis.io/rules/heylegwork-com/heylegwork-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Octopus Authentication](https://apis.io/security/heylegwork-com/heylegwork-com-authentication/)
+- [Octopus Domain Security](https://apis.io/security/heylegwork-com/heylegwork-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://heylegwork.com/)
+
+## API Evangelist rating
+
+**Kin Score 32.4** — thin · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 44.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 13.2 |
+
+**Agent readiness 27.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 15.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/heylegwork-com/](https://apis.io/providers/heylegwork-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Octopus: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/heylegwork-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
